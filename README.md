@@ -5,5 +5,5 @@ Updates:
 
 MONDAY 05 AUGUST 2019
  - added folder for scripts written in Ducky language
-    - added DISABLE-REALTIME-PROTECTION.txt, goes through windows defender and disables real-time protection
+    - added DISABLE-REALTIME-PROTECTION.txt, this script goes through windows defender and disables real-time protection
     
