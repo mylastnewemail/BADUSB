@@ -10,5 +10,5 @@ MONDAY 05 AUGUST 2019
     - added REVERSE-SHELL-INSTALLATION.txt, This script creates a hidden folder disguised as a Windows Drivers folder that then copies a reverse shell file to victim's computer (1800H)
  - organisation of files and folders (2200H)
     - scripts have now been moved into sub-folders ready for future scripts
-       - DISABLE-REALTIME-PROTECTION.txt has been moved to BADUSB\DUCKY SCRIPTS\ANTI-VIRUS
-       - REVERSE-SHELL-INSTALLATION.txt has been moved to BADUSB\DUCKY SCRIPTS\FILE MODIFICATION
+       - DISABLE-REALTIME-PROTECTION.txt has been moved to BADUSB\DUCKY SCRIPTS\HACKS\ANTI-VIRUS
+       - REVERSE-SHELL-INSTALLATION.txt has been moved to BADUSB\DUCKY SCRIPTS\HACKS\FILE MODIFICATION
