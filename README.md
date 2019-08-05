@@ -6,5 +6,5 @@ Updates:
 MONDAY 05 AUGUST 2019
  - added folder for scripts written in Ducky language
     - added DISABLE-REALTIME-PROTECTION.txt, this script goes through windows defender and disables real-time protection
-    - added REVERSE-SHELL-INSTALLATION.txt, This script creates a hidden folder disguised as a Windows Drivers folder that copies reverse shell       file to victim's computer
+    - added REVERSE-SHELL-INSTALLATION.txt, This script creates a hidden folder disguised as a Windows Drivers folder that then copies reverse shell       file to victim's computer
     
