@@ -4,7 +4,7 @@ DELAY 100
 STRING cmd
 CTRL SHIFT ENTER
 DELAY 500
-CTRL y
+ALT y
 DELAY 300
 STRING cd C:\Program Files\Windows Drivers
 ENTER
