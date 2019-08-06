@@ -2,6 +2,7 @@
 This project include scripts that I have created for the Rubber Ducky by HAK5 and Malduino Elite by Maltronics
 
 Updates:
+
 TUESDAY 06 AUGUST 2019
  - REVERSE-SHELL-INSTALLATION.txt update (1600H)
     - added alt-f4 function to close Command Line so the victim doesn't know the computer has been tampered with.
