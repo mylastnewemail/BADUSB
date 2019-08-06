@@ -8,6 +8,7 @@ TUESDAY 06 AUGUST 2019
     - added alt-f4 function to close Command Line so the victim doesn't know the computer has been tampered with.
     - script is too long to be run on BadUSBs therefore the script has been split into two:
        - The installation section is still in REVERSE-SHELL-INSTALLATION.txt however the execution of script has been put in a new script called REVERSE-SHELL-EXECUTION.txt
+ - DISABLE-REALTIME-PROTECTION.txt optimisation (1900H)
     
 MONDAY 05 AUGUST 2019
  - added folder for scripts written in Ducky language (1300H)
